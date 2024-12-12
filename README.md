@@ -1,4 +1,5 @@
 # Abstract-Data-Art-Project
+<<<<<<< HEAD
 # Unit 4 - Abstract Art Project
 
 ## Introduction
@@ -23,7 +24,7 @@ Include a hyperlink to the source of your dataset used for this project. Additio
 Dataset: https://www.kaggle.com/datasets/prajwaldongre/best-50-exercise-for-your-body
 
 - **Name** (String) - name of the exercise
-- **Benefits** (String) - benefits of the exercise
+- **Benefit** (String) - benefit of the exercise
 - **Target Muscle** (String) - muscle that is being worked on
 
 ## UML Diagram
@@ -47,5 +48,5 @@ Record a short video of your abstract art animation to display here on your READ
 ## Description
 
 Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
-
-Our user's goal was to find out the best way he can work his body. In order for him to do that, he randomizes through 50 exercises to see which ones he would do on that day. The program will provide the name, benefit, and the muscle he will be working on during the exercise.
+Our user's goal is to become a fitter person, so he decided to randomize through 50 exercises to see which one he'll be doing on that day. Our user has to click one button to see the exercise; it provides the name, benefit, and the muscle that he will be working on during the exercise.
+=======
